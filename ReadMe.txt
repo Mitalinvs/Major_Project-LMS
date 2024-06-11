@@ -9,10 +9,6 @@ FrontEnd:
 npm install @reduxjs/toolkit react-redux react-router-dom react-icons react-chartjs-2 chart.js daisyui axios react-hot-toast @tailwindcss/line-clamp
 npm run dev
 
-Admin: mitalinvs@gmail.com Pass: Vishav@1234
-Admin2: rm@gmail.com Pass: Rm@11092002
-User: mbansal_be21@thapar.edu Pass: 12@345678
-
 Server at port 5010
 FrontEnd at port 5173
 
