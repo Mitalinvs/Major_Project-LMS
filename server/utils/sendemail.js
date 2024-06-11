@@ -10,7 +10,7 @@ const sendEmail = async function (email, subject, message) {
     auth: {
       user:"mitalinvs@gmail.com",
       // ek site mei jake app password bnao then wo password yha use kro
-      pass: "uoir wrjz klgv ikls",
+      pass: "",
     },
   });
 
